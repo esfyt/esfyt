@@ -2,9 +2,9 @@
 - 👀 I’m interested in H@cking
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on YT
-- 📫 How to reach me through YT
-- 😄 Pronouns: .
-- ⚡ Fun fact: I am a f**king guy.
+- 📫 How to reach me: through YT
+- 😄 Pronouns: Topper, Hacker etc.
+- ⚡ Fun fact: I am a normal guy.
 
 <!---
 esfyt/esfyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
