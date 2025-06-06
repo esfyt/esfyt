@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esfyt
 - 👀 I’m interested in H@cking
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently creating an OS
 - 💞️ I’m looking to collaborate on YT
 - 📫 How to reach me: through YT
 - 😄 Pronouns: Topper, Hacker etc.
