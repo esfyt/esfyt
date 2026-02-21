@@ -3,7 +3,7 @@
 - 🌱 I’m currently creating an OS
 - 💞️ I’m looking to collaborate on YT
 - 📫 How to reach me: through YT
-- 😄 Pronouns: Topper, Hacker etc.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a normal guy.
 
 <!---
